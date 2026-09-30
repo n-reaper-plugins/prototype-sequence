@@ -1,4 +1,5 @@
 -- @description PrototypeSequence: random sound sequences on one PROTO folder track, driven by markers & regions
+-- @author _n_plugins
 -- @version 0.1.6
 -- @about
 --   Run this action to open the PrototypeSequence window (needs ReaImGui: ReaPack > ReaTeam Extensions;
